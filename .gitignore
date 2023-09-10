@@ -1,2 +1,5 @@
+.env.local
+.env
+.envrc
 .next
 node_modules

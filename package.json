@@ -24,7 +24,8 @@
     "nextra-theme-docs": "latest",
     "node-fetch": "^2.6.9",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-markdown": "^8.0.5" 
   },
   "devDependencies": {
     "@types/node": "18.11.10",
